@@ -12,6 +12,6 @@ const AboutPage = () => (
             </article>
         </div>
     </Layout>
-);
+)
 
-export default AboutPage;
+export default AboutPage
